@@ -16,8 +16,6 @@ while True:
     if choice == "V":
         # Display current balance
         print(f"Your balance is: {balance}")
-
-
     elif choice == "D":
         # Prompt user for deposit amount
         cash = input("Please enter cash amount to deposit:\n")
